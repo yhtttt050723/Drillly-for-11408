@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["type", "stem"],
+  "properties": {
+    "type": { "enum": ["single_choice", "multiple_choice", "coding", "subjective", "wrong_review", "word_dictation"] },
+    "word": { "type": "string", "description": "默写单词：正确拼写" },
+    "meaning": { "type": "string", "description": "默写单词：中文释义（作题干）" },
+    "phonetic": { "type": "string" },
+    "hint": { "type": "string" },
+    "title": { "type": "string" },
+    "stem": { "type": "string" },
+    "options": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["key", "content"],
+        "properties": {
+          "key": { "type": "string" },
+          "content": { "type": "string" }
+        }
+      }
+    },
+    "answer": { "type": "array", "items": { "type": "string" } },
+    "explanation": { "type": "string" },
+    "images": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "题目附图 URL 列表，如 /api/media/question_images/1/fig.png"
+    },
+    "language": { "enum": ["c", "cpp"], "default": "cpp" },
+    "starterCode": { "type": "string", "description": "代码题初始模板" },
+    "testCases": {
+      "type": "array",
+      "description": "测试数据（仅存档/对照，提交代码时不自动判题）",
+      "items": {
+        "type": "object",
+        "properties": {
+          "input": { "type": "string" },
+          "expectedOutput": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "chapter": {
+          "type": "string",
+          "description": "用户手动维护的章节编号，如 6.1.6、§7.2"
+        }
+      }
+    }
+  }
+}
