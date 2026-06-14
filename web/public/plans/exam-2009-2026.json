@@ -1,0 +1,1805 @@
+{
+  "version": 1,
+  "days": {
+    "2025-10-01": {
+      "date": "2025-10-01",
+      "dayNote": "2009年·真题",
+      "segments": [
+        {
+          "id": "seg-2009-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学09年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学09年真题"
+        },
+        {
+          "id": "seg-2009-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 09年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 09年真题"
+        },
+        {
+          "id": "seg-2009-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语09年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语09年真题"
+        },
+        {
+          "id": "seg-2009-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治09年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治09年真题"
+        }
+      ]
+    },
+    "2025-10-02": {
+      "date": "2025-10-02",
+      "dayNote": "2009年·订正",
+      "segments": [
+        {
+          "id": "seg-2009-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学09年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学09年真题"
+        },
+        {
+          "id": "seg-2009-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 09年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 09年真题"
+        },
+        {
+          "id": "seg-2009-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语09年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语09年真题"
+        },
+        {
+          "id": "seg-2009-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治09年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治09年真题"
+        }
+      ]
+    },
+    "2025-10-03": {
+      "date": "2025-10-03",
+      "dayNote": "2010年·真题",
+      "segments": [
+        {
+          "id": "seg-2010-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学10年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学10年真题"
+        },
+        {
+          "id": "seg-2010-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 10年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 10年真题"
+        },
+        {
+          "id": "seg-2010-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语10年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语10年真题"
+        },
+        {
+          "id": "seg-2010-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治10年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治10年真题"
+        }
+      ]
+    },
+    "2025-10-04": {
+      "date": "2025-10-04",
+      "dayNote": "2010年·订正",
+      "segments": [
+        {
+          "id": "seg-2010-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学10年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学10年真题"
+        },
+        {
+          "id": "seg-2010-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 10年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 10年真题"
+        },
+        {
+          "id": "seg-2010-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语10年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语10年真题"
+        },
+        {
+          "id": "seg-2010-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治10年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治10年真题"
+        }
+      ]
+    },
+    "2025-10-05": {
+      "date": "2025-10-05",
+      "dayNote": "2011年·真题",
+      "segments": [
+        {
+          "id": "seg-2011-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学11年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学11年真题"
+        },
+        {
+          "id": "seg-2011-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 11年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 11年真题"
+        },
+        {
+          "id": "seg-2011-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语11年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语11年真题"
+        },
+        {
+          "id": "seg-2011-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治11年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治11年真题"
+        }
+      ]
+    },
+    "2025-10-06": {
+      "date": "2025-10-06",
+      "dayNote": "2011年·订正",
+      "segments": [
+        {
+          "id": "seg-2011-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学11年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学11年真题"
+        },
+        {
+          "id": "seg-2011-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 11年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 11年真题"
+        },
+        {
+          "id": "seg-2011-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语11年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语11年真题"
+        },
+        {
+          "id": "seg-2011-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治11年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治11年真题"
+        }
+      ]
+    },
+    "2025-10-07": {
+      "date": "2025-10-07",
+      "dayNote": "2012年·真题",
+      "segments": [
+        {
+          "id": "seg-2012-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学12年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学12年真题"
+        },
+        {
+          "id": "seg-2012-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 12年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 12年真题"
+        },
+        {
+          "id": "seg-2012-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语12年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语12年真题"
+        },
+        {
+          "id": "seg-2012-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治12年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治12年真题"
+        }
+      ]
+    },
+    "2025-10-08": {
+      "date": "2025-10-08",
+      "dayNote": "2012年·订正",
+      "segments": [
+        {
+          "id": "seg-2012-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学12年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学12年真题"
+        },
+        {
+          "id": "seg-2012-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 12年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 12年真题"
+        },
+        {
+          "id": "seg-2012-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语12年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语12年真题"
+        },
+        {
+          "id": "seg-2012-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治12年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治12年真题"
+        }
+      ]
+    },
+    "2025-10-09": {
+      "date": "2025-10-09",
+      "dayNote": "2013年·真题",
+      "segments": [
+        {
+          "id": "seg-2013-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学13年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学13年真题"
+        },
+        {
+          "id": "seg-2013-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 13年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 13年真题"
+        },
+        {
+          "id": "seg-2013-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语13年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语13年真题"
+        },
+        {
+          "id": "seg-2013-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治13年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治13年真题"
+        }
+      ]
+    },
+    "2025-10-10": {
+      "date": "2025-10-10",
+      "dayNote": "2013年·订正",
+      "segments": [
+        {
+          "id": "seg-2013-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学13年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学13年真题"
+        },
+        {
+          "id": "seg-2013-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 13年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 13年真题"
+        },
+        {
+          "id": "seg-2013-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语13年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语13年真题"
+        },
+        {
+          "id": "seg-2013-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治13年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治13年真题"
+        }
+      ]
+    },
+    "2025-10-11": {
+      "date": "2025-10-11",
+      "dayNote": "2014年·真题",
+      "segments": [
+        {
+          "id": "seg-2014-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学14年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学14年真题"
+        },
+        {
+          "id": "seg-2014-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 14年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 14年真题"
+        },
+        {
+          "id": "seg-2014-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语14年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语14年真题"
+        },
+        {
+          "id": "seg-2014-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治14年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治14年真题"
+        }
+      ]
+    },
+    "2025-10-12": {
+      "date": "2025-10-12",
+      "dayNote": "2014年·订正",
+      "segments": [
+        {
+          "id": "seg-2014-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学14年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学14年真题"
+        },
+        {
+          "id": "seg-2014-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 14年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 14年真题"
+        },
+        {
+          "id": "seg-2014-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语14年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语14年真题"
+        },
+        {
+          "id": "seg-2014-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治14年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治14年真题"
+        }
+      ]
+    },
+    "2025-10-13": {
+      "date": "2025-10-13",
+      "dayNote": "2015年·真题",
+      "segments": [
+        {
+          "id": "seg-2015-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学15年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学15年真题"
+        },
+        {
+          "id": "seg-2015-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 15年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 15年真题"
+        },
+        {
+          "id": "seg-2015-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语15年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语15年真题"
+        },
+        {
+          "id": "seg-2015-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治15年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治15年真题"
+        }
+      ]
+    },
+    "2025-10-14": {
+      "date": "2025-10-14",
+      "dayNote": "2015年·订正",
+      "segments": [
+        {
+          "id": "seg-2015-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学15年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学15年真题"
+        },
+        {
+          "id": "seg-2015-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 15年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 15年真题"
+        },
+        {
+          "id": "seg-2015-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语15年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语15年真题"
+        },
+        {
+          "id": "seg-2015-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治15年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治15年真题"
+        }
+      ]
+    },
+    "2025-10-15": {
+      "date": "2025-10-15",
+      "dayNote": "2016年·真题",
+      "segments": [
+        {
+          "id": "seg-2016-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学16年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学16年真题"
+        },
+        {
+          "id": "seg-2016-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 16年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 16年真题"
+        },
+        {
+          "id": "seg-2016-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语16年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语16年真题"
+        },
+        {
+          "id": "seg-2016-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治16年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治16年真题"
+        }
+      ]
+    },
+    "2025-10-16": {
+      "date": "2025-10-16",
+      "dayNote": "2016年·订正",
+      "segments": [
+        {
+          "id": "seg-2016-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学16年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学16年真题"
+        },
+        {
+          "id": "seg-2016-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 16年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 16年真题"
+        },
+        {
+          "id": "seg-2016-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语16年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语16年真题"
+        },
+        {
+          "id": "seg-2016-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治16年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治16年真题"
+        }
+      ]
+    },
+    "2025-10-17": {
+      "date": "2025-10-17",
+      "dayNote": "2017年·真题",
+      "segments": [
+        {
+          "id": "seg-2017-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学17年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学17年真题"
+        },
+        {
+          "id": "seg-2017-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 17年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 17年真题"
+        },
+        {
+          "id": "seg-2017-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语17年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语17年真题"
+        },
+        {
+          "id": "seg-2017-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治17年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治17年真题"
+        }
+      ]
+    },
+    "2025-10-18": {
+      "date": "2025-10-18",
+      "dayNote": "2017年·订正",
+      "segments": [
+        {
+          "id": "seg-2017-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学17年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学17年真题"
+        },
+        {
+          "id": "seg-2017-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 17年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 17年真题"
+        },
+        {
+          "id": "seg-2017-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语17年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语17年真题"
+        },
+        {
+          "id": "seg-2017-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治17年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治17年真题"
+        }
+      ]
+    },
+    "2025-10-19": {
+      "date": "2025-10-19",
+      "dayNote": "2018年·真题",
+      "segments": [
+        {
+          "id": "seg-2018-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学18年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学18年真题"
+        },
+        {
+          "id": "seg-2018-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 18年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 18年真题"
+        },
+        {
+          "id": "seg-2018-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语18年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语18年真题"
+        },
+        {
+          "id": "seg-2018-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治18年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治18年真题"
+        }
+      ]
+    },
+    "2025-10-20": {
+      "date": "2025-10-20",
+      "dayNote": "2018年·订正",
+      "segments": [
+        {
+          "id": "seg-2018-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学18年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学18年真题"
+        },
+        {
+          "id": "seg-2018-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 18年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 18年真题"
+        },
+        {
+          "id": "seg-2018-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语18年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语18年真题"
+        },
+        {
+          "id": "seg-2018-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治18年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治18年真题"
+        }
+      ]
+    },
+    "2025-10-21": {
+      "date": "2025-10-21",
+      "dayNote": "2019年·真题",
+      "segments": [
+        {
+          "id": "seg-2019-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学19年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学19年真题"
+        },
+        {
+          "id": "seg-2019-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 19年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 19年真题"
+        },
+        {
+          "id": "seg-2019-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语19年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语19年真题"
+        },
+        {
+          "id": "seg-2019-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治19年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治19年真题"
+        }
+      ]
+    },
+    "2025-10-22": {
+      "date": "2025-10-22",
+      "dayNote": "2019年·订正",
+      "segments": [
+        {
+          "id": "seg-2019-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学19年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学19年真题"
+        },
+        {
+          "id": "seg-2019-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 19年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 19年真题"
+        },
+        {
+          "id": "seg-2019-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语19年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语19年真题"
+        },
+        {
+          "id": "seg-2019-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治19年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治19年真题"
+        }
+      ]
+    },
+    "2025-10-23": {
+      "date": "2025-10-23",
+      "dayNote": "2020年·真题",
+      "segments": [
+        {
+          "id": "seg-2020-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学20年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学20年真题"
+        },
+        {
+          "id": "seg-2020-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 20年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 20年真题"
+        },
+        {
+          "id": "seg-2020-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语20年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语20年真题"
+        },
+        {
+          "id": "seg-2020-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治20年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治20年真题"
+        }
+      ]
+    },
+    "2025-10-24": {
+      "date": "2025-10-24",
+      "dayNote": "2020年·订正",
+      "segments": [
+        {
+          "id": "seg-2020-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学20年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学20年真题"
+        },
+        {
+          "id": "seg-2020-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 20年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 20年真题"
+        },
+        {
+          "id": "seg-2020-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语20年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语20年真题"
+        },
+        {
+          "id": "seg-2020-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治20年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治20年真题"
+        }
+      ]
+    },
+    "2025-10-25": {
+      "date": "2025-10-25",
+      "dayNote": "2021年·真题",
+      "segments": [
+        {
+          "id": "seg-2021-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学21年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学21年真题"
+        },
+        {
+          "id": "seg-2021-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 21年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 21年真题"
+        },
+        {
+          "id": "seg-2021-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语21年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语21年真题"
+        },
+        {
+          "id": "seg-2021-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治21年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治21年真题"
+        }
+      ]
+    },
+    "2025-10-26": {
+      "date": "2025-10-26",
+      "dayNote": "2021年·订正",
+      "segments": [
+        {
+          "id": "seg-2021-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学21年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学21年真题"
+        },
+        {
+          "id": "seg-2021-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 21年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 21年真题"
+        },
+        {
+          "id": "seg-2021-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语21年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语21年真题"
+        },
+        {
+          "id": "seg-2021-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治21年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治21年真题"
+        }
+      ]
+    },
+    "2025-10-27": {
+      "date": "2025-10-27",
+      "dayNote": "2022年·真题",
+      "segments": [
+        {
+          "id": "seg-2022-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学22年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学22年真题"
+        },
+        {
+          "id": "seg-2022-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 22年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 22年真题"
+        },
+        {
+          "id": "seg-2022-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语22年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语22年真题"
+        },
+        {
+          "id": "seg-2022-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治22年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治22年真题"
+        }
+      ]
+    },
+    "2025-10-28": {
+      "date": "2025-10-28",
+      "dayNote": "2022年·订正",
+      "segments": [
+        {
+          "id": "seg-2022-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学22年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学22年真题"
+        },
+        {
+          "id": "seg-2022-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 22年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 22年真题"
+        },
+        {
+          "id": "seg-2022-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语22年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语22年真题"
+        },
+        {
+          "id": "seg-2022-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治22年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治22年真题"
+        }
+      ]
+    },
+    "2025-10-29": {
+      "date": "2025-10-29",
+      "dayNote": "2023年·真题",
+      "segments": [
+        {
+          "id": "seg-2023-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学23年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学23年真题"
+        },
+        {
+          "id": "seg-2023-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 23年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 23年真题"
+        },
+        {
+          "id": "seg-2023-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语23年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语23年真题"
+        },
+        {
+          "id": "seg-2023-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治23年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治23年真题"
+        }
+      ]
+    },
+    "2025-10-30": {
+      "date": "2025-10-30",
+      "dayNote": "2023年·订正",
+      "segments": [
+        {
+          "id": "seg-2023-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学23年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学23年真题"
+        },
+        {
+          "id": "seg-2023-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 23年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 23年真题"
+        },
+        {
+          "id": "seg-2023-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语23年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语23年真题"
+        },
+        {
+          "id": "seg-2023-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治23年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治23年真题"
+        }
+      ]
+    },
+    "2025-10-31": {
+      "date": "2025-10-31",
+      "dayNote": "2024年·真题",
+      "segments": [
+        {
+          "id": "seg-2024-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学24年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学24年真题"
+        },
+        {
+          "id": "seg-2024-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 24年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 24年真题"
+        },
+        {
+          "id": "seg-2024-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语24年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语24年真题"
+        },
+        {
+          "id": "seg-2024-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治24年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治24年真题"
+        }
+      ]
+    },
+    "2025-11-01": {
+      "date": "2025-11-01",
+      "dayNote": "2024年·订正",
+      "segments": [
+        {
+          "id": "seg-2024-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学24年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学24年真题"
+        },
+        {
+          "id": "seg-2024-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 24年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 24年真题"
+        },
+        {
+          "id": "seg-2024-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语24年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语24年真题"
+        },
+        {
+          "id": "seg-2024-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治24年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治24年真题"
+        }
+      ]
+    },
+    "2025-11-02": {
+      "date": "2025-11-02",
+      "dayNote": "2025年·真题",
+      "segments": [
+        {
+          "id": "seg-2025-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学25年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学25年真题"
+        },
+        {
+          "id": "seg-2025-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 25年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 25年真题"
+        },
+        {
+          "id": "seg-2025-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语25年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语25年真题"
+        },
+        {
+          "id": "seg-2025-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治25年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治25年真题"
+        }
+      ]
+    },
+    "2025-11-03": {
+      "date": "2025-11-03",
+      "dayNote": "2025年·订正",
+      "segments": [
+        {
+          "id": "seg-2025-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学25年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学25年真题"
+        },
+        {
+          "id": "seg-2025-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 25年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 25年真题"
+        },
+        {
+          "id": "seg-2025-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语25年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语25年真题"
+        },
+        {
+          "id": "seg-2025-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治25年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治25年真题"
+        }
+      ]
+    },
+    "2025-11-04": {
+      "date": "2025-11-04",
+      "dayNote": "2026年·真题",
+      "segments": [
+        {
+          "id": "seg-2026-exam-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "数学26年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "数学26年真题"
+        },
+        {
+          "id": "seg-2026-exam-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "408 26年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "408 26年真题"
+        },
+        {
+          "id": "seg-2026-exam-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "英语26年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "英语26年真题"
+        },
+        {
+          "id": "seg-2026-exam-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "政治26年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "政治26年真题"
+        }
+      ]
+    },
+    "2025-11-05": {
+      "date": "2025-11-05",
+      "dayNote": "2026年·订正",
+      "segments": [
+        {
+          "id": "seg-2026-review-1-0",
+          "slot": 1,
+          "kind": "study",
+          "subject": "数学真题",
+          "topic": "订正·数学26年真题",
+          "startTime": "08:30",
+          "endTime": "11:30",
+          "plannedMinutes": 180,
+          "note": "订正·数学26年真题"
+        },
+        {
+          "id": "seg-2026-review-2-0",
+          "slot": 2,
+          "kind": "study",
+          "subject": "408真题",
+          "topic": "订正·408 26年真题",
+          "startTime": "14:00",
+          "endTime": "17:00",
+          "plannedMinutes": 180,
+          "note": "订正·408 26年真题"
+        },
+        {
+          "id": "seg-2026-review-3-0",
+          "slot": 3,
+          "kind": "study",
+          "subject": "英语真题",
+          "topic": "订正·英语26年真题",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "plannedMinutes": 120,
+          "note": "订正·英语26年真题"
+        },
+        {
+          "id": "seg-2026-review-4-0",
+          "slot": 4,
+          "kind": "study",
+          "subject": "政治真题",
+          "topic": "订正·政治26年真题",
+          "startTime": "21:30",
+          "endTime": "23:30",
+          "plannedMinutes": 120,
+          "note": "订正·政治26年真题"
+        }
+      ]
+    }
+  }
+}

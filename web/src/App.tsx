@@ -1,4 +1,5 @@
 import { NavLink, Route, Routes } from 'react-router-dom'
+import { CalendarPage } from './pages/CalendarPage'
 import { ImportPage } from './pages/ImportPage'
 import { PracticePage } from './pages/PracticePage'
 import { SettingsPage } from './pages/SettingsPage'
@@ -21,6 +22,12 @@ export default function App() {
             练习
           </NavLink>
           <NavLink
+            to="/calendar"
+            className={({ isActive }) => (isActive ? 'app-nav-link active' : 'app-nav-link')}
+          >
+            强化日历
+          </NavLink>
+          <NavLink
             to="/import"
             className={({ isActive }) => (isActive ? 'app-nav-link active' : 'app-nav-link')}
           >
@@ -41,6 +48,7 @@ export default function App() {
       <div className="app-body">
         <Routes>
           <Route path="/" element={<PracticePage />} />
+          <Route path="/calendar" element={<CalendarPage />} />
           <Route path="/import" element={<ImportPage />} />
           <Route path="/settings" element={<SettingsPage />} />
         </Routes>
